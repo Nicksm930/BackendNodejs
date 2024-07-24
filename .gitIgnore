@@ -1,0 +1,10 @@
+
+# All environments except production
+.env
+.env.test
+.env.production
+.env.dev
+
+# Node modules
+node_modules
+
